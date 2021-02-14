@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Memory_Game/static/css/main.13d71978.chunk.css",
-    "main.js": "/Memory_Game/static/js/main.524c7e02.chunk.js",
-    "main.js.map": "/Memory_Game/static/js/main.524c7e02.chunk.js.map",
-    "runtime-main.js": "/Memory_Game/static/js/runtime-main.44151c5c.js",
-    "runtime-main.js.map": "/Memory_Game/static/js/runtime-main.44151c5c.js.map",
-    "static/js/2.94b1ffca.chunk.js": "/Memory_Game/static/js/2.94b1ffca.chunk.js",
-    "static/js/2.94b1ffca.chunk.js.map": "/Memory_Game/static/js/2.94b1ffca.chunk.js.map",
-    "index.html": "/Memory_Game/index.html",
-    "static/css/main.13d71978.chunk.css.map": "/Memory_Game/static/css/main.13d71978.chunk.css.map",
-    "static/js/2.94b1ffca.chunk.js.LICENSE.txt": "/Memory_Game/static/js/2.94b1ffca.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/Memory_Game/static/media/wallpaper.13ce3229.jpeg"
+    "main.css": "/MG/static/css/main.e110c1f8.chunk.css",
+    "main.js": "/MG/static/js/main.93692bc8.chunk.js",
+    "main.js.map": "/MG/static/js/main.93692bc8.chunk.js.map",
+    "runtime-main.js": "/MG/static/js/runtime-main.569c9ed4.js",
+    "runtime-main.js.map": "/MG/static/js/runtime-main.569c9ed4.js.map",
+    "static/js/2.2d422f25.chunk.js": "/MG/static/js/2.2d422f25.chunk.js",
+    "static/js/2.2d422f25.chunk.js.map": "/MG/static/js/2.2d422f25.chunk.js.map",
+    "index.html": "/MG/index.html",
+    "static/css/main.e110c1f8.chunk.css.map": "/MG/static/css/main.e110c1f8.chunk.css.map",
+    "static/js/2.2d422f25.chunk.js.LICENSE.txt": "/MG/static/js/2.2d422f25.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/MG/static/media/wallpaper.13ce3229.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.44151c5c.js",
-    "static/js/2.94b1ffca.chunk.js",
-    "static/css/main.13d71978.chunk.css",
-    "static/js/main.524c7e02.chunk.js"
+    "static/js/runtime-main.569c9ed4.js",
+    "static/js/2.2d422f25.chunk.js",
+    "static/css/main.e110c1f8.chunk.css",
+    "static/js/main.93692bc8.chunk.js"
   ]
 }
