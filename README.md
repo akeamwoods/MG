@@ -1,5 +1,5 @@
 # Memory Game
-Demo: https://akeamwoods.github.io/MG/#/MG/
+Demo: https://akeamwoods.github.io/MG/#/
 
 Notes:
 - Leaderboards are persisted and stored in local storage using redux persist
