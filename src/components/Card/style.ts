@@ -18,7 +18,7 @@ export const CardFront = styled(Card)`
 `;
 
 export const CardBack = styled(Card)`
-  background-image: url("/icons/logo.svg");
+  background-image: url(${process.env.PUBLIC_URL + "/icons/logo.svg"});
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;

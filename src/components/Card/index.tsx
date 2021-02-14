@@ -16,8 +16,11 @@ export const Card: React.FC<{
   return (
     <CardContainer onClick={() => onClick(card)}>
       <CardBack
-        // @ts-ignore
-        style={{ opacity: opacity.interpolate((o) => 1 - o), transform }}
+        style={{
+          // @ts-ignore
+          opacity: opacity.interpolate((o) => 1 - o),
+          transform,
+        }}
       />
       <CardFront
         style={{
