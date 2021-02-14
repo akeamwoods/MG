@@ -37,6 +37,7 @@ export const HighscoresPage = () => {
         ) : (
           <p>No highscores found</p>
         )}
+
         <button onClick={() => history.push("/")}>Back to start menu</button>
       </Container>
     </Wrapper>
