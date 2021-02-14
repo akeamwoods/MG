@@ -27,7 +27,8 @@ export const CardBack = styled(Card)`
 export const CardBGImage = styled(Card).attrs<{
   cardvalue: string;
 }>((props) => ({}))<{ cardvalue: string }>`
-  background-image: url("/icons/${(props) => props.cardvalue}.svg");
+  // background-image: url("/icons/${(props) => props.cardvalue}.svg");
+  background-image: url(${props => process.env.PUBLIC_URL + "/icons/" + props.cardvalue + ".svg"});
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
